@@ -13,6 +13,7 @@ public class Application {
 		ApplicationContext ac = SpringApplication.run(Application.class, args);
 		SendServer sendServer = (SendServer) ac.getBean("sendService");
 		sendServer.sendTopicMessage("准备睡觉Q！！！！");
+		sendServer.sendTopicMessage("准备睡觉Q！！！！");
 	}
 
 }
