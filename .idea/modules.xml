@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1/001-rabbitmq-send-java.iml" filepath="$PROJECT_DIR$/1/001-rabbitmq-send-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-springboot-rabbitmq/002-springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/002-springboot-rabbitmq/002-springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-springboot-rabbitmq/003-springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/003-springboot-rabbitmq/003-springboot-rabbitmq.iml" />
+    </modules>
+  </component>
+</project>
