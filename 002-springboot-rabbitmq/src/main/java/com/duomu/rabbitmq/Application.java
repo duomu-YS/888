@@ -12,7 +12,7 @@ public class Application {
 
 		ApplicationContext ac = SpringApplication.run(Application.class, args);
 		SendServer sendServer = (SendServer) ac.getBean("111sendService");
-		sendServer.sendTopicMessage("111准12312备睡觉Q！11！1！！");
+		sendServer.sendTopicMessage("111213131准12312备睡觉Q！11！1！！");
 		sendServer.sendTopicMessage("111准备23121312睡觉Q！！！！");
 	}
 
